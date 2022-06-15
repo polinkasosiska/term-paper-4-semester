@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329769349150",
+    "project_id": "my-catgram",
+    "storage_bucket": "my-catgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329769349150:android:5bc1d312e2be717bc03e0f",
+        "android_client_info": {
+          "package_name": "com.example.my_catgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329769349150-ik1ne8sh8o07rcnuo7vsso7ahnakbvd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsqujBOacTyOW7ZiTPSuRkveFbcm2qFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329769349150-ik1ne8sh8o07rcnuo7vsso7ahnakbvd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
